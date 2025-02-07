@@ -9,7 +9,7 @@ A simple language translation application built with Python using Tkinter for th
 - Supports a wide range of languages from Google Translate.
 
 ## Demo
-![Language Translator Logo]()
+![Language Translator Logo](images/LT Logo.png)
 
 
 ## Installation
